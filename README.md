@@ -28,8 +28,9 @@ Toto je můj projekt o vytvoření chytrého zrcadla pomocí Raspberry pi.
 | Napájecí invertor 3V | [Creativ](https://www.digitalni-led.cz/napajeci-invertor-2x-aa-baterie-0-5-metru-3v) | 1x | 99 | 99 |
 | PWM 15A 400W MOSFET | [Dratek](https://dratek.cz/arduino-platforma/1754-pwm-15a-400w-mosfet.html) | 1x | 24 | 24 |
 | Rotační enkodér | [Dratek](https://dratek.cz/arduino-platforma/837-rotacni-enkoder.html) | 1x | 29 | 29 |
+| DC-DC Step Up měnič napětí - 5V | [Dratek](https://dratek.cz/arduino-platforma/7534-dc-dc-step-up-menic-napeti-5-v-480-ma.html) | 1x | 17 | 17 |
 | Nabíječka Li-Pol TP4056 | [Botland](https://botland.cz/lipol-usb-micro-usb-nabijeci-moduly/16979-nabijecka-li-pol-hw-373-v121-tp4056-jednoclankova-1s-37-v-usb-typu-c-se-zabezpecenim-5904422326708.html) | 1x | 56 | 56 |
-| **CELKEM** | | | | **676 Kč** |
+| **CELKEM** | | | | **693 Kč** |
 
 # Další informace
 
