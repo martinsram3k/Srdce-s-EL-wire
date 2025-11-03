@@ -31,7 +31,7 @@ Toto je můj projekt o vytvoření chytrého zrcadla pomocí Raspberry pi.
 | IIC I2C OLED displej 0,96" - Bílý, 128 x 64 | [Dratek](https://dratek.cz/arduino-platforma/1569-iic-i2c-oled-display-0-96-128x64-bily.html) | 1x | 93 | 93 |
 | DC-DC Step Up měnič napětí - 5V | [Dratek](https://dratek.cz/arduino-platforma/7534-dc-dc-step-up-menic-napeti-5-v-480-ma.html) | 1x | 17 | 17 |
 | Nabíječka Li-Pol TP4056 | [Botland](https://botland.cz/lipol-usb-micro-usb-nabijeci-moduly/16979-nabijecka-li-pol-hw-373-v121-tp4056-jednoclankova-1s-37-v-usb-typu-c-se-zabezpecenim-5904422326708.html) | 1x | 56 | 56 |
-| **CELKEM** | | | | **686 Kč** |
+| **CELKEM** | | | | **779 Kč** |
 
 # Další informace
 
