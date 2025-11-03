@@ -25,9 +25,11 @@ Toto je můj projekt o vytvoření chytrého zrcadla pomocí Raspberry pi.
 | Kapacitní Dotykové tlačítko TTP223 | [LaskaKit](https://www.laskakit.cz/arduino-kapacitniRaspberry_Pi_smart_mirror-dotykove-tlacitko-ttp223/?srsltid=AfmBOorNaN3l6W3Gcz3o9jsEGVZX-ah74oZ52VtK8fgUKViddUv0jnPZ5g) | 2x | 5 | 10 |
 | Baterie 18650 3,65V 3000mAh | [Drátek](https://dratek.cz/arduino-platforma/75079-baterie-18650-3-65v-3000mah-inr18650.html) | 1x | 149 | 149 |
 | Měděný drát lakovaný 1,45mm | [Creativ](https://www.creativ-shop.cz/medeny-drat/medeny-drat-lakovany-1-45mm/) | 1x | 55 | 55 |
+| Napájecí invertor 3V | [Creativ](https://www.digitalni-led.cz/napajeci-invertor-2x-aa-baterie-0-5-metru-3v) | 1x | 99 | 99 |
 | PWM 15A 400W MOSFET | [Dratek](https://dratek.cz/arduino-platforma/1754-pwm-15a-400w-mosfet.html) | 1x | 24 | 24 |
+| Rotační enkodér | [Dratek](https://dratek.cz/arduino-platforma/837-rotacni-enkoder.html) | 1x | 29 | 29 |
 | Nabíječka Li-Pol TP4056 | [Botland](https://botland.cz/lipol-usb-micro-usb-nabijeci-moduly/16979-nabijecka-li-pol-hw-373-v121-tp4056-jednoclankova-1s-37-v-usb-typu-c-se-zabezpecenim-5904422326708.html) | 1x | 56 | 56 |
-| **CELKEM** | | | | **548 Kč** |
+| **CELKEM** | | | | **676 Kč** |
 
 # Další informace
 
