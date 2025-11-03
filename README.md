@@ -27,8 +27,7 @@ Toto je můj projekt o vytvoření chytrého zrcadla pomocí Raspberry pi.
 | Měděný drát lakovaný 1,45mm | [Creativ](https://www.creativ-shop.cz/medeny-drat/medeny-drat-lakovany-1-45mm/) | 1x | 55 | 55 |
 | PWM 15A 400W MOSFET | [Dratek](https://dratek.cz/arduino-platforma/1754-pwm-15a-400w-mosfet.html) | 1x | 24 | 24 |
 | Nabíječka Li-Pol TP4056 | [Botland](https://botland.cz/lipol-usb-micro-usb-nabijeci-moduly/16979-nabijecka-li-pol-hw-373-v121-tp4056-jednoclankova-1s-37-v-usb-typu-c-se-zabezpecenim-5904422326708.html) | 1x | 56 | 56 |
-
-| **CELKEM** | | | | **2777 Kč** |
+| **CELKEM** | | | | **548 Kč** |
 
 # Další informace
 
