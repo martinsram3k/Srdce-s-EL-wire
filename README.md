@@ -6,15 +6,9 @@ Toto je můj projekt o vytvoření chytrého zrcadla pomocí Raspberry pi.
 
 * Steampunk styl (odhalené komponenty, meďené dráty)
 * Konstrukce srce bude zdvojena tím pádem do něho pujde vložit fotografie
-* Srdce bude sestaveno z meďených drátu ktere budou vystřídané s EL wire který srdci přidá možnost toho že bude moct svítit
-* Ovladání jasu pomoci encoderu který bude připojen na mikrocontroler který pote bude ovldat MOSFET který bude ovládat jas EL wire
-* Zobrezení zpráv na Oled display, zpravy se budou moct posílat i na dálku a poté se na display zobrazí
-* Kapacitní tlačítko pro zobrazení zprávy 
+* Srdce bude sestaveno z meďených drátu ktere budou vystřídané s Edison led která srdci přidá možnost toho že bude moct svítit
+* Ovladání jasu pomoci encoderu
 * Baterie aby od srdce nemusel trčet kabel
-* ON OFF switch
-
-
-
 
 # Potřebné komponeny
 
@@ -27,5 +21,5 @@ Toto je můj projekt o vytvoření chytrého zrcadla pomocí Raspberry pi.
 | Měděný drát 5m 1.5mm | [Aliexpress](https://www.aliexpress.com/item/1005005922566978.html?spm=a2g0o.order_list.order_list_main.5.21ef1802e01gJs) | 1x | 232 | 232 |
 | **CELKEM** | | | | **497 Kč** |
 
-# Další informace
+
 
