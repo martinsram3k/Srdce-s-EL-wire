@@ -1,6 +1,6 @@
 # Srdce na držení obrázku
 
-Toto je můj projekt o vytvoření chytrého zrcadla pomocí Raspberry pi.
+
 
 # Funkce které chci aby srdce mělo
 
